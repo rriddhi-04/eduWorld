@@ -35,6 +35,14 @@
     max-width: 400px;
 }
 
+.about h2{
+    font-size: 35px;
+    color: #000F38;
+    margin: 10px 0;
+    max-width: 400px;
+    
+}
+
 .about p{
     color: #676767;
     margin-bottom: 15px;
