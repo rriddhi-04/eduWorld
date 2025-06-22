@@ -2,9 +2,11 @@
 
 A modern, responsive college website clone built using React.js, HTML5, and CSS3. Featuring smooth navigation, interactive components, and an elegant UI, this project simulates a real-world college site with multiple pages and responsive design breakpoints.
 
+
 ## 🌐 Live Preview
 🔗 View Live Project
 https://edu-world-mu.vercel.app/
+
 
 ## ✨ Features
 -📄**Multi-Page UI** – Includes Home, Programs, Campus Life, Testimonials, and Contact pages
@@ -19,31 +21,15 @@ https://edu-world-mu.vercel.app/
 
 -🎨 **Clean Layouts** – Smooth transitions and organized structure for a modern experience
 
+
 ## 🛠️ Tech Stack
 **Frontend:** React.js, HTML5, CSS3
 
 **Development Tools:** React Hooks, Props, Create React App
 
-## 📁 Folder Structure
-pgsql
-Copy code
-EduWorld/
-│
-├── public/
-│   └── index.html
-│
-├── src/
-│   ├── components/     # Reusable UI components
-│   ├── pages/          # Page-level components (Home, Programs, etc.)
-│   ├── App.js
-│   └── index.js
-│
-├── .env
-├── package.json
-└── README.md
-
 
 ## 🚀 Quick Start
+
 ### Prerequisites
 - Node.js (v14+)
 - npm or yarn
@@ -71,7 +57,7 @@ npm start
 
 | 📌 Page | Desktop View | 
 |------|------------|
-| **HOME** | ![Home](screenshot\Home_screenshot.png) | 
+| **HOME** | ![Home](D:\ReactProject\screenshot\Home_screenshot.png) | 
 | **PROGRAMS** | ![Programs](screenshot\programs_screenshot.png) | 
 | **ABOUT US** | ![AboutUs](screenshot\aboutUs_screenshot.png) | 
 | **CAMPUS** | ![Campus](screenshot\Campus_screenshot.png) | 
