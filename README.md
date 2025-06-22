@@ -60,12 +60,12 @@ https://edu-world-mu.vercel.app/
 
 | 📌 Page | Desktop View | 
 |------|------------|
-| **HOME** | ![Home](screenshot\Home_screenshot.png) | 
-| **PROGRAMS** | ![Programs](screenshot\programs_screenshot.png) | 
-| **ABOUT US** | ![AboutUs](screenshot\aboutUs_screenshot.png) | 
-| **CAMPUS** | ![Campus](screenshot\Campus_screenshot.png) | 
-| **TESTIMONIALS** | ![Testimonials](screenshot\Testimonials_screenshots.png) | 
-| **CONTACTUS** | ![ContactUs](screenshot\ContactUs_screenshot.png) | 
+| **HOME** | ![Home](screenshot/Home_screenshot.png) | 
+| **PROGRAMS** | ![Programs](screenshot/programs_screenshot.png) | 
+| **ABOUT US** | ![AboutUs](screenshot/aboutUs_screenshot.png) | 
+| **CAMPUS** | ![Campus](screenshot/Campus_screenshot.png) | 
+| **TESTIMONIALS** | ![Testimonials](screenshot/Testimonials_screenshots.png) | 
+| **CONTACTUS** | ![ContactUs](screenshot/ContactUs_screenshot.png) | 
 
 
 
