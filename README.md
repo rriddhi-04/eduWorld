@@ -3,29 +3,27 @@
 A modern, responsive college website clone built using React.js, HTML5, and CSS3. Featuring smooth navigation, interactive components, and an elegant UI, this project simulates a real-world college site with multiple pages and responsive design breakpoints.
 
 
+
 ## 🌐 Live Preview
 🔗 View Live Project
 https://edu-world-mu.vercel.app/
 
 
+
 ## ✨ Features
 -📄**Multi-Page UI** – Includes Home, Programs, Campus Life, Testimonials, and Contact pages
-
 -📱 **Responsive Design** – Fully optimized for desktop, tablet (850px), and mobile (650px) views
-
 -⚛️ **Reusable Components** – Built with modular functional components using props and hooks
-
 -🧠 **State Management** – Efficient and scalable UI handled with React state and logic
-
 -📝 **Interactive Form** – “Get in Touch” contact form with front-end validation and UX-friendly input handling
-
 -🎨 **Clean Layouts** – Smooth transitions and organized structure for a modern experience
+
 
 
 ## 🛠️ Tech Stack
 **Frontend:** React.js, HTML5, CSS3
-
 **Development Tools:** React Hooks, Props, Create React App
+
 
 
 ## 🚀 Quick Start
@@ -65,6 +63,7 @@ npm start
 | **CONTACTUS** | ![ContactUs](screenshot\ContactUs_screenshot.png) | 
 
 
+
 ## 🔮 Future Enhancements
  
  - [ ] Add animations using Framer Motion or GSAP
@@ -74,11 +73,13 @@ npm start
  - [ ] Dark/Light mode toggle
 
 
+
 ## 💡 Learnings
 
 - [ ] Building multi-page navigation in SPA using React
 - [ ] Handling responsive breakpoints and layout shifts
 - [ ] Real-world form UX and validation best practices
+
 
 **📣 Show Some Love**
 **If you like this project, please ⭐️ the repository to support and share it with others.**
