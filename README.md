@@ -12,10 +12,15 @@ https://edu-world-mu.vercel.app/
 
 ## ✨ Features
 -📄**Multi-Page UI** – Includes Home, Programs, Campus Life, Testimonials, and Contact pages
+
 -📱 **Responsive Design** – Fully optimized for desktop, tablet (850px), and mobile (650px) views
+
 -⚛️ **Reusable Components** – Built with modular functional components using props and hooks
+
 -🧠 **State Management** – Efficient and scalable UI handled with React state and logic
+
 -📝 **Interactive Form** – “Get in Touch” contact form with front-end validation and UX-friendly input handling
+
 -🎨 **Clean Layouts** – Smooth transitions and organized structure for a modern experience
 
 
