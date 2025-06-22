@@ -40,21 +40,21 @@ https://edu-world-mu.vercel.app/
 ### Installation 
 
 1. **Clone the repository**
-```bash
-git clone https://github.com/yourusername/eduworld-college-clone.git
-cd eduworld-college-clone
-```
+   ```bash
+   git clone https://github.com/yourusername/eduworld-college-clone.git
+   cd eduworld-college-clone
+   ```
 
 2. **Install dependencies**
-```bash
-npm install
-```
+   ```bash
+   npm install
+   ```
 
 3. **Start the development server**
-```bash
-npm start
-🖥️ Open your browser at http://localhost:3000
-```
+   ```bash
+   npm start
+   🖥️ Open your browser at http://localhost:3000
+   ```
 
 ### 📸 Screenshots
 
@@ -84,6 +84,7 @@ npm start
 - [ ] Building multi-page navigation in SPA using React
 - [ ] Handling responsive breakpoints and layout shifts
 - [ ] Real-world form UX and validation best practices
+
 
 
 **📣 Show Some Love**
