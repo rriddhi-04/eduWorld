@@ -71,12 +71,12 @@ npm start
 
 | 📌 Page | Desktop View | 
 |------|------------|
-| **HOME** | (screenshot\Home_screenshot.png) | 
-| **PROGRAMS** | (screenshot\programs_screenshot.png) | 
-| **ABOUT US** | (screenshot\aboutUs_screenshot.png) | 
-| **CAMPUS** | (screenshot\Campus_screenshot.png) | 
-| **TESTIMONIALS** | (screenshot\Testimonials_screenshots.png) | 
-| **CONTACTUS** | (screenshot\ContactUs_screenshot.png) | 
+| **HOME** | ![Home](screenshot\Home_screenshot.png) | 
+| **PROGRAMS** | ![Programs](screenshot\programs_screenshot.png) | 
+| **ABOUT US** | ![AboutUs](screenshot\aboutUs_screenshot.png) | 
+| **CAMPUS** | ![Campus](screenshot\Campus_screenshot.png) | 
+| **TESTIMONIALS** | ![Testimonials](screenshot\Testimonials_screenshots.png) | 
+| **CONTACTUS** | ![ContactUs](screenshot\ContactUs_screenshot.png) | 
 
 
 ## 🔮 Future Enhancements
