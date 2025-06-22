@@ -60,7 +60,7 @@ npm start
 
 | 📌 Page | Desktop View | 
 |------|------------|
-| **HOME** | ![Home](D:\ReactProject\screenshot\Home_screenshot.png) | 
+| **HOME** | ![Home](screenshot\Home_screenshot.png) | 
 | **PROGRAMS** | ![Programs](screenshot\programs_screenshot.png) | 
 | **ABOUT US** | ![AboutUs](screenshot\aboutUs_screenshot.png) | 
 | **CAMPUS** | ![Campus](screenshot\Campus_screenshot.png) | 
