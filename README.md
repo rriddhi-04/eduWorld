@@ -41,8 +41,8 @@ https://edu-world-mu.vercel.app/
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/eduworld-college-clone.git
-   cd eduworld-college-clone
+   git clone  https://github.com/rriddhi-04/eduWorld
+   cd eduWorld
    ```
 
 2. **Install dependencies**
